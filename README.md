@@ -1,4 +1,6 @@
 # DReD
 DReD - Descriptive Relation Dataset
 
-Code and dataset to be released soon!
+Re-TACRED and CoNLL04 training code coming soon!
+
+Better README coming soon!
